@@ -1,0 +1,12 @@
+{
+  "name": "refactoringjsbook",
+  "version": "0.0.0",
+  "description": "Stuff for refactoring js book",
+  "license": "BSD-3-Clause",
+  "author": "David Yu",
+  "repository": "https://github.com/noobling/refactoringjsbook",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "wish": "^1.0.1"
+  }
+}

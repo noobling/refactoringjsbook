@@ -1,5 +1,3 @@
-# refactoringjsbook
-
  ### Technical Debt
 
  The cost of fixing all the erros and problems with the code base
@@ -28,9 +26,3 @@
 * Your feedback loop will be tighter
 
 Testing is hard, you already wrote code now you have to write code that uses the code in a comprehensive and structured way. This leads on to the larger problem of writing quality software. This is a hard task but there are decades of work done on this to aid you.
-
-### Gotchas in js
-* Cannot use === for arrays/objects but works fine for integers and strings e.g. ['2,' '3'] === ['2', '3'] will give false
-
-### Handy Commands
-Watch files changes and test `mocha -w filename`
